@@ -1,2 +1,3 @@
 <setting>
+    <SerialSetting Port="Com1" BaudRate="9600"></SerialSetting>
 </setting>>
