@@ -1,3 +1,5 @@
 <setting>
-    <SerialSetting Port="Com1" BaudRate="9600"></SerialSetting>
+    <SerialSetting Port="Com1" BaudRate="9600" />
+    <Scanner Port="Com2" BauRate="19200" DataBit="8" StopBit="1" />
+
 </setting>>
